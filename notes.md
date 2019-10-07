@@ -30,13 +30,14 @@ show history
 uploading to github
 
     git push (name) after doing the commit
+
 Uploading to a computer thar doesn't have your code saved
 --------------------------------------------------------
-login to github
-make a new respository that can go to url no spaces
-must he HTTPS
-copy and paste links to push on command line
-update to computer with codes
+* login to github
+* make a new respository that can go to url no spaces
+* must he HTTPS
+* copy and paste links to push on command line
+* update to computer with codes
 -----------------------------
 
 
